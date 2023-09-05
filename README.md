@@ -1,2 +1,2 @@
 # misc-java-projects
-Several simple Java projects that I created as I was learning the language.
+Several simple Java projects created over the years.
