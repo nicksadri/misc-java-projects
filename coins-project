@@ -1,3 +1,5 @@
+// Program that converts the user's various coins into a total dollar amount.
+
 import java.util.Scanner;
 
 class Main {
