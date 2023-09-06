@@ -1,0 +1,1 @@
+Project automatically generates a square 2-dimensional array of a user-decided size, containing only 0s and 1s. Then, the project determines which rows and columns have the most 1s and returns their indexes.
